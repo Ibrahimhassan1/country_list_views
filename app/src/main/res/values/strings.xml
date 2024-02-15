@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Country List</string>
+    <string name="loading_status">Loading...</string>
+    <string name="no_countries_found">No countries found!</string>
+</resources>
